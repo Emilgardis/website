@@ -7,8 +7,8 @@ date = "2016-12-07T08:26:00-07:00"
 <div class="row install-row">
   <div class="col-md-8">
     <p class="pitch">
-      <b>Redox</b> är en Unix-liknande operativsystem skrivet i <a style="color: inherit;" href="https://www.rust-lang.org/"><b>Rust</b></a>,
-      till att föra innovationer Rust till en modern mikrokärna och full uppsättning av program.
+      <b>Redox</b> är ett Unix-liknande operativsystem skrivet i <a style="color: inherit;" href="https://www.rust-lang.org/"><b>Rust</b></a>,
+      med ett mål att använda de innovationer Rust tillämpar i en modern mikrokärna och till en full uppsättning av program.
     </p>
   </div>
   <div class="col-md-4 install-box">
@@ -23,13 +23,13 @@ date = "2016-12-07T08:26:00-07:00"
       <li>Skriven i Rust</li>
       <li>Mikrokärna</li>
       <li>Inkluderar valfritt GUI - Orbital</li>
-      <li>Understödja Rusts Standard Library</li>
+      <li>Stödjer Rusts Standard Library</li>
     </ul>
   </div>
   <div class="col-md-6">
     <ul class="laundry-list">
       <li>MIT licensierad</li>
-      <li>Drivers körs i Användarrymds</li>
+      <li>Drivers körs i </li>
       <li>Inkluderar vanliga Unix-kommandon</li>
       <li>Newlib port för C program</li>
     </ul>
@@ -38,7 +38,7 @@ date = "2016-12-07T08:26:00-07:00"
 <div class="row features">
   <div class="col-sm-12">
     <div style="font-size: 16px; text-align: center;">
-      Redox kör Orbital
+      Redox med Orbital
     </div>
     <a href="https://i.imgur.com/MJqsqYo.png">
       <img class="img-responsive" src="https://i.imgur.com/MJqsqYo.png"/>
